@@ -1,0 +1,46 @@
+Scenes:
+Thumbnail 
+Contents 
+DefineSpace 
+VectorPlane 
+VectorCompostion 
+HigherDimensions 
+ScalarMultiplication 
+VectorAddition 
+BasicTransform
+VectorDotProductLabel
+VectorDotProduct
+AngleMeassurment 
+CrossProduct 
+Ending
+
+Contents:
+1. Define what identity is 
+2. How can it be changed and how does it affect different people 
+3. Kinds and measurements of identity correlation between people 
+
+kept ideas that appear in the presentation:
+Phase space represents identity of a person 
+Vector direction is the compositional ratio of attributes 
+Vector length is the overall magnitude or development amount of the identity 
+Basis vector defines the available attributes as well as their strength and correlation with other attributes 
+Dot product: Measurement for determining alignment of 2 people's identities, gets bigger with higher magnitudes 
+Norm operator: Determines the ratio of composition 
+Nd Matrix for n attributes Linear transformation as an operator that changes identity -> column space
+Opposite vector shows a person who is the complete opposite of you 
+Multiplication is making someone with more pronounced attributes 
+Addition gives you with both of your attributes combined+ more strength if you have some correlation 
+Angle: Similar to dot product, shows how far away 2 persons are but only composition wise not absolute. 
+Cross products: Can easily see if 2 people have the came composition of attributes 
+Used to find someone whose composition is most different from the other 2 persons 
+Inverse matrix is an action reversing the original action
+
+excluded ideas due to... reasons:
+Determinant as scalar of space 
+Rotation matrix describes how you turn towards 1 attribute and away from another 
+Full rank vs lower as elimination for attributes 
+Eigenvector shows strengthening but keeps the ratio 
+change Origin is a point where you haven't found your identity at but you also can not be affected by anything / also can't get out easily 
+Eigenvalue as quantified scalar 
+Projection: 
+
